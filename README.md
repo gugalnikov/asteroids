@@ -1,11 +1,11 @@
 This is a tool which provides data on nearby asteroids using [NASA Asteroids API](https://api.nasa.gov/)
 
-#Technology Stack
+# Technology Stack
 
-#Design
+# Design
 
-#Development
+# Development
 
-#Usage
+# Usage
 
-#Deployment
+# Deployment
